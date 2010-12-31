@@ -1,6 +1,6 @@
 module Example 
   class Developer
-    def self.be_productive
+    def self.able_to_do_some_work?
     end
   end
 end
